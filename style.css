@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Bodoni Moda', serif;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 22px;
+    min-width: 324px;
+}
+
+.nav1 {
+    font-size: 0.8rem;
+
+}
+
+.nav2Container {
+    margin-right: 3px;
+}
+.nav2 {
+    font-size: 0.8rem;
+    color: white;
+    background-color: black;
+    border: 1px;
+    padding-left: 8px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 50px;
+    align-items: center;
+    min-width: 324px;
+}
+
+.header1 {
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+
+.header2Container {
+    display: inherit;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+.header2 {
+    font-size: 0.8rem;
+}
+
+
+
+.fotoPrincipal {
+    width: 100%;
+    min-width: 324px;
+}
+
+.main1 {
+    position: absolute;
+    top: 150px;
+    left: 8px;
+    width: 36%;
+}
+
+.main1Texto {
+    font-size: 0.6rem;
+}
+
+.main1Boton {
+    background-color: rgb(255, 117, 117);
+    border: 0px;
+}
+
+
+.tiendasContainer {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    min-width: 324px;
+}
+
+.tienda {
+    width: 33%;
+    padding: 5px;
+}
+
+
+
+
+
