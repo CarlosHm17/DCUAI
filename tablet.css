@@ -1,0 +1,60 @@
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 22px;
+    min-width: 698px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 50px;
+    align-items: center;
+    min-width: 698px;
+}
+
+
+
+.header1 {
+    font-size: 2.3rem;
+    margin-left: 35px;
+    margin-right: 25px;
+}
+
+.header2 {
+    font-size: 1.3rem;
+}
+
+
+.fotoPrincipal {
+    min-width: 698px;
+    width: 100%;
+}
+
+.main1 {
+    position: absolute;
+    top: 250px;
+    left: 45px;
+    width: 36%;
+}
+
+.main1Texto {
+    font-size: 0.8rem;
+}
+
+.main1Titulo {
+    font-size: 2.6rem;
+}
+
+.main1Boton {
+    font-size: 2rem;
+    background-color: rgb(255, 117, 117);
+    border: 0px;
+}
+

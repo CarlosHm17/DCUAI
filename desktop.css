@@ -1,0 +1,83 @@
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 22px;
+
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 50px;
+    align-items: center;
+}
+
+
+
+.header1 {
+    font-size: 2.8rem;
+}
+
+.header2Container {
+    display: inherit;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.header2 {
+    font-size: 1.8rem;
+}
+
+.fotoPrincipal {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%;
+}
+
+.main1 {
+    position: absolute;
+    top: 150px;
+    left: 130px;
+    width: 36%;
+}
+
+.main1Texto {
+    font-size: 1.1rem;
+}
+
+.main1Titulo {
+    font-size: 3.6rem;
+}
+
+.main1Boton {
+    font-size: 3rem;
+    background-color: rgb(255, 117, 117);
+    border: 0px;
+}
+
+.tiendasContainer {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tienda {
+    width: 33%;
+    padding: 28px;
+}

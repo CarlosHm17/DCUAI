@@ -1,0 +1,22 @@
+select {
+    border: none;
+    font-size: 1.8rem;
+    width: 70px;
+    background-color: white; 
+}
+
+.hea {
+    background-color: #f6f6f6;
+    margin: 3px;
+    margin-top: 9px;
+    padding: 10px;
+    font-size: 1.8rem;
+    color: #666;
+}
+
+picture {
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+    height: 50%;
+}
